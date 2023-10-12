@@ -1,0 +1,1 @@
+console.log('Welcome to vanilla js boilerplate code with');

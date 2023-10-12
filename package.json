@@ -4,7 +4,7 @@
   "description": "vanilla js boilerplate code with webpack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack serve"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/dgodwani/vanillajs-webpack-starter/issues"
   },
-  "homepage": "https://github.com/dgodwani/vanillajs-webpack-starter#readme"
+  "homepage": "https://github.com/dgodwani/vanillajs-webpack-starter#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
 }
