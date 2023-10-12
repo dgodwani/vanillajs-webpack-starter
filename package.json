@@ -1,0 +1,28 @@
+{
+  "name": "vanillajs-webpack-starter",
+  "version": "1.0.0",
+  "description": "vanilla js boilerplate code with webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgodwani/vanillajs-webpack-starter.git"
+  },
+  "keywords": [
+    "Boilerplate",
+    "Starter",
+    "Template",
+    "JavaScript",
+    "Webpack",
+    "Vanilla",
+    "JS"
+  ],
+  "author": "dhaval_godwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgodwani/vanillajs-webpack-starter/issues"
+  },
+  "homepage": "https://github.com/dgodwani/vanillajs-webpack-starter#readme"
+}
