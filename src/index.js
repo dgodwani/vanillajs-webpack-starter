@@ -1,3 +1,5 @@
+import "./styles.css"
+
 function Component() {
     const rootElement = document.createElement('div');
 
